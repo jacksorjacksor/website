@@ -49,3 +49,12 @@ Many thanks !
 - Room: Wicklow Hall 2A/B (otherwise somewhere clearly signposting us)
 - Contact: ntoll@ntoll.org
 - Links: [main website](https://codewith.mu), [developer docs](https://mu.readthedocs.io/en/latest/), [our approach](https://mu.readthedocs.io/en/latest/contributing.html), [CoC](https://mu.readthedocs.io/en/latest/code_of_conduct.html), [developer setup](https://mu.readthedocs.io/en/latest/setup.html) and [suggested first steps](https://mu.readthedocs.io/en/latest/first-steps.html).
+
+## Untitled Azure Project
+
+- Number of people: Anyone who wants to!
+- Room: Liffey Hall 1 (or wherever's nearest the coffee)
+- Python Level: any (see Details)
+- Contact: jacksorjacksor@pm.me / @jacksorjacksor
+- Links: [Azure on Python](https://azure.microsoft.com/en-gb/develop/python/)
+- Details: Having recently started an Azure-focused job I'd like to use the Sprint weekend to learn about using Python on the platform. If you'd like to learn a bit about that too then come join me!
